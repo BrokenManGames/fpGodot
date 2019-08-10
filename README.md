@@ -2,6 +2,7 @@
 # 
 ## Inhalt:
 * [Ziele](https://github.com/BrokenManGames/fpGodot/blob/master/README.md#ziele)
+* [Grundlagen](https://github.com/BrokenManGames/fpGodot/#die-grundlagen-der-spieleentwicklung)
 #
 ## Ziele:
 * Wir wollen die Grundlagen der Spieleentwicklung lernen.
